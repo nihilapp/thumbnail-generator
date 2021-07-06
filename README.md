@@ -1,1 +1,2 @@
-# thumbnail-generator
+# 썸네일 생성기
+심심해서 만들어보는 썸네일 생성기
